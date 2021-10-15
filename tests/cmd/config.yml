@@ -1,0 +1,3 @@
+endpoints:
+  - url: http://localhost # endpoint URL
+    interval: 10 # number of seconds

@@ -1,0 +1,14 @@
+# IDE
+.idea/
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# CLI
+vendor
+_dist
+**/datasources/datasource.yaml
+em-config.yml
+.env
